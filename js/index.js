@@ -28,7 +28,7 @@ typewriter
 .changeDelay(20)
 .typeString("Moi, c'est Brice THIBAULT")
 .pauseFor(300)
-.typeString("<strong>, Développeur Front-End</strong> !")
+.typeString("<strong>, Développeur Web</strong> !")
 .pauseFor(1000)
 .deleteChars(11)
 .typeString('<span style="color: #27ae60"> CSS</span> !')
@@ -37,7 +37,7 @@ typewriter
 .typeString('<span style="color: #ff6910"> JavaScript</span> !')
 .pauseFor(1000)
 .deleteChars(12)
-.typeString('<span style="color: midnightblue"> VueJs</span> !')
+.typeString('<span style="color: midnightblue"> React</span> !')
 .start()
 
 /**
