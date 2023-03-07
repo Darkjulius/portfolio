@@ -30,7 +30,7 @@ typewriter
 .pauseFor(300)
 .typeString("<strong>, Développeur Web</strong> !")
 .pauseFor(1000)
-.deleteChars(11)
+.deleteChars(6)
 .typeString('<span style="color: #27ae60"> CSS</span> !')
 .pauseFor(1000)
 .deleteChars(5)
