@@ -37,7 +37,7 @@ typewriter
 .typeString('<span style="color: #ff6910"> JavaScript</span> !')
 .pauseFor(1000)
 .deleteChars(12)
-.typeString('<span style="color: midnightblue"> React</span> !')
+.typeString('<span style="color: midnightblue"> Vue.js</span> !')
 .start()
 
 /**
